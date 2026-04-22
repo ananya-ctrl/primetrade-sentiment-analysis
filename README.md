@@ -107,7 +107,7 @@ Because of that, the results should be treated as directional insights based on 
 
 ### 1. Clone the repository
 
-git clone <your-repo-link>
+git clone https://github.com/ananya-ctrl/primetrade-sentiment-analysis.git
 cd primetrade-sentiment-analysis
 
 ### 2. Create and activate a virtual environment
