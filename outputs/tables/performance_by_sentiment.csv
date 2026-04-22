@@ -1,0 +1,4 @@
+sentiment_group,total_daily_pnl,avg_pnl_per_trade,win_rate,trades_per_day
+Fear,6699925.1906,50.0476,0.4151,133871.0
+Greed,841645.5068,29.018,0.3041,10812.75
+Neutral,158742.3781,22.2297,0.3172,7141.0

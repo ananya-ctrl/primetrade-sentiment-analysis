@@ -1,0 +1,4 @@
+sentiment_group,avg_trade_size_usd,avg_fee,buy_trades,sell_trades,buy_sell_ratio
+Fear,5259.9778,1.0833,7977.0,7687.0,1.0377
+Greed,4956.6798,1.066,1473.5,2477.0,0.8819
+Neutral,3058.8481,1.2245,786.0,295.0,2.6644

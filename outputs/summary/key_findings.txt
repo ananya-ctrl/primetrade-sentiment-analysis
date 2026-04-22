@@ -1,0 +1,14 @@
+Key Findings
+
+1. Fear days showed the strongest performance in the aligned sample, with the highest average total daily PnL, highest average PnL per trade, and highest win rate.
+
+2. Fear days also showed the highest trading activity and the largest average trade size.
+
+3. Greed days appeared relatively more sell-heavy, with a buy/sell ratio below 1.
+
+4. Frequent traders outperformed infrequent traders on both average daily PnL and win rate.
+
+5. High Size traders had slightly higher average daily PnL than Low Size traders, but their average win rate was lower.
+
+Important Note:
+The overlap between the sentiment dataset and historical trader dataset is limited, so these findings should be treated as directional insights based on the aligned sample.
